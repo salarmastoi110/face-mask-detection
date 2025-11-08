@@ -42,7 +42,7 @@ face-mask-detection/
 
 ### 1. Clone the repo
 
-git clone https://github.com/YOUR_USERNAME/face-mask-detection.git
+git clone https://github.com/salarmastoi110/face-mask-detection/edit/main/README.md
 cd face-mask-detection
 
 2. Create virtual environment (optional)
